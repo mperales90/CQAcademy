@@ -1,1 +1,1 @@
-# SonarQubeAcademy
+CodeQuality Demos
