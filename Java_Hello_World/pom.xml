@@ -4,8 +4,8 @@
 						http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupID>org.codehaus.mojo</groupID>
-	<artifactID>Hello_World</artifactID>
+	<groupId>org.codehaus.mojo</groupId>
+	<artifactId>Hello_World</artifactId>
 	<version>1.0</version>
 
 	<build>
