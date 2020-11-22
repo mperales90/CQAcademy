@@ -3,7 +3,6 @@
 <b><h2>Pre-requisites:</h2></b>
 <b><h3>---Please make sure you complete this before the class.---</h3></b>
 
-<b>-Bonus points (or a chocolate when returning to the office) if you are able to run previous to class and explain them! :D</b>
 
 1.Create a GitHub account
 
