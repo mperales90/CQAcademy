@@ -42,3 +42,8 @@
 8.Download JMeter 
 - https://jmeter.apache.org/download_jmeter.cgi
 - Binaries -> zip file -> unzip it on C:\Programs
+
+
+
+<b>Note:</b> Make sure you have Java 11 installed and added to your system variables (JAVA_HOME).
+
